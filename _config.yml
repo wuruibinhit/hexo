@@ -5,11 +5,11 @@
 # Site
 title: 数据挖掘和机器学习在锂电池领域的应用
 subtitle: ©aucop
-description:
-keywords:
+description: 数据挖掘和机器学习在锂电池领域的应用
+keywords: 机器学习，数据挖掘，锂电池
 author: 吴睿滨
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
